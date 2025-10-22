@@ -1,6 +1,33 @@
-# Getting Started with Create React App
+# Apple Website Clone with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive clone of the Apple website built with React, featuring a modern UI and smooth animations. This project demonstrates the use of React functional components, React Hooks, and responsive design principles.
+
+## 🚀 Features
+
+- Responsive design that works on all devices
+- Interactive navigation menu
+- Product showcase sections
+- Smooth scrolling and animations
+- Modern UI/UX following Apple's design language
+
+## 🛠️ Technologies Used
+
+- **Frontend Framework**: React 17+
+- **Styling**: CSS3, Bootstrap 4
+- **Build Tool**: Create React App
+- **Version Control**: Git
+- **Package Manager**: npm
+
+## 👨‍💻 Author
+
+**Temesgen Abdissa**  
+[GitHub Profile](https://github.com/TEMESGENABDISSA)  
+[Email](mailto:temesgenabdissa2@gmail.com)
+
+## 📋 Prerequisites
+
+- Node.js (v14 or higher)
+- npm (v6 or higher)
 
 ## Available Scripts
 
